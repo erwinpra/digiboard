@@ -29,7 +29,10 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
+  "homepage": "https://erwinpra.github.io/digiboard",
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "demo-digiboard -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
