@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/css/0.c1e28d34.chunk.css": "/digiboard/static/css/0.c1e28d34.chunk.css",
+    "static/js/0.8c0350bc.chunk.js": "/digiboard/static/js/0.8c0350bc.chunk.js",
+    "static/js/0.8c0350bc.chunk.js.map": "/digiboard/static/js/0.8c0350bc.chunk.js.map",
+    "main.css": "/digiboard/static/css/main.842ffa8a.chunk.css",
+    "main.js": "/digiboard/static/js/main.5daea5ad.chunk.js",
+    "main.js.map": "/digiboard/static/js/main.5daea5ad.chunk.js.map",
+    "runtime-main.js": "/digiboard/static/js/runtime-main.5e9ac581.js",
+    "runtime-main.js.map": "/digiboard/static/js/runtime-main.5e9ac581.js.map",
+    "static/css/3.ef9168ec.chunk.css": "/digiboard/static/css/3.ef9168ec.chunk.css",
+    "static/js/3.9766d24f.chunk.js": "/digiboard/static/js/3.9766d24f.chunk.js",
+    "static/js/3.9766d24f.chunk.js.map": "/digiboard/static/js/3.9766d24f.chunk.js.map",
+    "static/js/4.b3f98c35.chunk.js": "/digiboard/static/js/4.b3f98c35.chunk.js",
+    "static/js/4.b3f98c35.chunk.js.map": "/digiboard/static/js/4.b3f98c35.chunk.js.map",
+    "static/js/5.2d1838fe.chunk.js": "/digiboard/static/js/5.2d1838fe.chunk.js",
+    "static/js/5.2d1838fe.chunk.js.map": "/digiboard/static/js/5.2d1838fe.chunk.js.map",
+    "static/js/6.02a7672c.chunk.js": "/digiboard/static/js/6.02a7672c.chunk.js",
+    "static/js/6.02a7672c.chunk.js.map": "/digiboard/static/js/6.02a7672c.chunk.js.map",
+    "static/js/7.78e45193.chunk.js": "/digiboard/static/js/7.78e45193.chunk.js",
+    "static/js/7.78e45193.chunk.js.map": "/digiboard/static/js/7.78e45193.chunk.js.map",
+    "index.html": "/digiboard/index.html",
+    "static/css/0.c1e28d34.chunk.css.map": "/digiboard/static/css/0.c1e28d34.chunk.css.map",
+    "static/css/3.ef9168ec.chunk.css.map": "/digiboard/static/css/3.ef9168ec.chunk.css.map",
+    "static/css/main.842ffa8a.chunk.css.map": "/digiboard/static/css/main.842ffa8a.chunk.css.map",
+    "static/js/0.8c0350bc.chunk.js.LICENSE.txt": "/digiboard/static/js/0.8c0350bc.chunk.js.LICENSE.txt",
+    "static/js/3.9766d24f.chunk.js.LICENSE.txt": "/digiboard/static/js/3.9766d24f.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/digiboard/static/media/fa-solid-900.a7234b10.eot",
+    "static/media/human-girl.08b0e1e0.png": "/digiboard/static/media/human-girl.08b0e1e0.png",
+    "static/media/human-man.dc344dcb.png": "/digiboard/static/media/human-man.dc344dcb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e9ac581.js",
+    "static/css/3.ef9168ec.chunk.css",
+    "static/js/3.9766d24f.chunk.js",
+    "static/css/main.842ffa8a.chunk.css",
+    "static/js/main.5daea5ad.chunk.js"
+  ]
+}
